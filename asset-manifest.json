@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Your-contacts-list/static/css/main.01162c2c.chunk.css",
+    "main.js": "/Your-contacts-list/static/js/main.0eac53ba.chunk.js",
+    "main.js.map": "/Your-contacts-list/static/js/main.0eac53ba.chunk.js.map",
+    "runtime-main.js": "/Your-contacts-list/static/js/runtime-main.724ba3d3.js",
+    "runtime-main.js.map": "/Your-contacts-list/static/js/runtime-main.724ba3d3.js.map",
+    "static/js/2.953729a6.chunk.js": "/Your-contacts-list/static/js/2.953729a6.chunk.js",
+    "static/js/2.953729a6.chunk.js.map": "/Your-contacts-list/static/js/2.953729a6.chunk.js.map",
+    "static/js/3.78796666.chunk.js": "/Your-contacts-list/static/js/3.78796666.chunk.js",
+    "static/js/3.78796666.chunk.js.map": "/Your-contacts-list/static/js/3.78796666.chunk.js.map",
+    "index.html": "/Your-contacts-list/index.html",
+    "static/css/main.01162c2c.chunk.css.map": "/Your-contacts-list/static/css/main.01162c2c.chunk.css.map",
+    "static/js/2.953729a6.chunk.js.LICENSE.txt": "/Your-contacts-list/static/js/2.953729a6.chunk.js.LICENSE.txt",
+    "static/media/pan.0bc9a8c3.svg": "/Your-contacts-list/static/media/pan.0bc9a8c3.svg",
+    "static/media/user.f55b3931.png": "/Your-contacts-list/static/media/user.f55b3931.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.724ba3d3.js",
+    "static/js/2.953729a6.chunk.js",
+    "static/css/main.01162c2c.chunk.css",
+    "static/js/main.0eac53ba.chunk.js"
+  ]
+}
